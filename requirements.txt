@@ -1,5 +1,2 @@
-numpy==1.21.4
 streamlit_pandas_profiling
 pycaret
-numba==0.53.0
-librosa
